@@ -26,13 +26,9 @@ This repository documents my journey learning backend development using FastAPI.
 - Request & Response Models
 - Data Validation
 - Dependency Injection
-- Authentication (JWT)
+- Authentication 
 - CRUD Operations
 - Connecting to Databases
 - Error Handling
 - Environment Variables
-- API Documentation (Swagger UI)
-
----
-
-## 📂 Project Structure
+- API Documentation
